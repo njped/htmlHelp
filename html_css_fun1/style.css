@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+.container {
+    background-color: white;
+    
+}
+
+#nav_bar {
+    display: flex;
+    flex-direction: row;
+}
+
+.logo_img {
+    justify-content: flex-start;
+}
+
+nav {
+    justify-content: flex-end;
+    
+}
